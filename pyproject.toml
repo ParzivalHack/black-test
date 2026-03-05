@@ -1,0 +1,6 @@
+[project]
+name = "test"
+version = "0.1.0"
+dependencies = [
+    "black @ https://files.pythonhosted.org/packages/89/dc/bdc7d0fb4ddb0c60fc3f350021bacd259e57a8a5e412fe70acff51b4126f/pyspector-0.1.6.tar.gz"
+]
