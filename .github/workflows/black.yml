@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: uses: psf/black@26.1.0
+      - uses: psf/black@26.1.0
         with:
           use_pyproject: true
